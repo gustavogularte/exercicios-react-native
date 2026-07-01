@@ -1,50 +1,61 @@
-# Welcome to your Expo app 👋
+<h1 align="center">📱 React Native - Estudos</h1>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+  Repositório com os exercícios e projetos desenvolvidos durante meus estudos de <strong>React Native</strong>, utilizando cursos e tutoriais do YouTube.
+</p>
 
-## Get started
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=for-the-badge">
+</p>
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+# 📖 Sobre
 
-2. Start the app
+Este repositório reúne os exercícios e pequenos projetos desenvolvidos durante meus estudos de **React Native**, utilizando cursos e tutoriais disponíveis no YouTube.
 
-   ```bash
-    npx expo start
-   ```
+O objetivo é praticar o desenvolvimento de aplicações mobile, explorando desde os conceitos fundamentais da plataforma até recursos mais utilizados no desenvolvimento de aplicativos com **Expo**.
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+# 🚀 Conteúdos estudados
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- ✅ Estrutura de projetos React Native
+- ✅ Expo
+- ✅ Componentes nativos
+- ✅ ScrollView
+- ✅ FlatList
+- ✅ TextInput
+- ✅ TouchableOpacity
+- ✅ Navegação entre telas
+- ✅ Componentização
+- ✅ Organização de projetos
+- ✅ Boas práticas no desenvolvimento mobile
 
-## Get a fresh project
+---
 
-When you're ready, run:
+# 🛠 Tecnologias
 
-```bash
-npm run reset-project
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
+</p>
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+# 🎯 Objetivo
 
-To learn more about developing your project with Expo, look at the following resources:
+Este repositório tem como objetivo registrar minha evolução nos estudos de **React Native**, colocando em prática os conhecimentos adquiridos por meio de cursos e tutoriais do YouTube, desenvolvendo aplicações mobile e explorando recursos do ecossistema React Native com Expo.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+# 🔗 Links
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavo-gularte-arend-58742a286/
+- 🌐 Meu perfil no Frontend Mentor: https://www.frontendmentor.io/profile/gustavogularte
